@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="style.css">
+    <title>Jogo do Milhão</title>
+</head>
+<body>
+    <header> 
+        <h1>Jogo do Milhão</h1>
+    </header>
+
+    <main>
+        <!--tela de início -->
+        <section id="container_home">
+           <div id="text_welcome">Vamos começar?</div>
+
+           <form id="home">
+                <label for="QuestionType">Escolha um tipo de pergunta:</label><br>
+                <input class="buttom" type="text" value="Comida" onclick="FoodButton()">
+                <input class="buttom" type="text" value="Esportes" onclick="SportButton()">
+            </form>
+            <img src="assets/Jogodomilhao.png">
+         </section>
+        <!-- fim tela de início -->
+
+        <!-- Tela de perguntas --> 
+        <section id="container_questions">
+            <h3 id="title"><!--pergunta--></h3>
+            <form id="answers_list"><!-- respostas --></form>        
+        </section>
+         <!-- fim Tela de perguntas --> 
+
+        <!-- Tela de resultados --> 
+        <section id="container_results">
+           <div id="correct"></div>
+           <div id="wrong"></div> 
+        </section>
+    </main>
+   <script src="main.js"></script>      
+</body>
+</html>
