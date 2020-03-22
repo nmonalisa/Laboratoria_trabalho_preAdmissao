@@ -1,3 +1,3 @@
-###Show do Milhão
+### Show do Milhão
 
 Ajustes do código original (recap).
