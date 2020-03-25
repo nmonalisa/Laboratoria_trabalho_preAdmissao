@@ -6,5 +6,8 @@ __Descrição do jogo:__
 Você deverá escolher um tema (comida ou esporte) para responder três perguntas sobre ele e testar seus conhecimentos gerais. 
 Cada pergunta tem três alternativas de resposta, e apenas uma está correta. 
 Para selecionar a sua resposta, clique sobre ela. 
-Ao final da rodada deverá aparecer o resultado final do seu jogo, apontando quantas perguntas você acertou e errou.
+Ao final da rodada deverá aparecer o resultado final do seu jogo, apontando quantas perguntas você acertou e errou.<br>
+
+__Página do jogo__: https://nmonalisa.github.io/Laboratoria_trabalho_preAdmissao/<br>
+
 Boa sorte! :moneybag: :dollar:
